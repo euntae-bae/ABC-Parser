@@ -1,0 +1,7 @@
+.vs
+/Debug
+/Release
+ABCParser/Debug
+ABCParser/Release
+ABCParser/x64
+*.abc
